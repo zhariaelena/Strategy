@@ -1,0 +1,2 @@
+# Strategy
+BTCUSD STRATEGY CTRADER
